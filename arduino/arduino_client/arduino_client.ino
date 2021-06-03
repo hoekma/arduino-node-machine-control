@@ -26,7 +26,7 @@ const int DO_UNLOCK = 4;
 const int DO_BLINK = 5;
 const char* host = "http://192.168.1.1:5001";  // Node.js server's IP address
 const char* wifiSSID = "YOURWIFINETWORKNAME";  // Your WIFI SSID
-const char* wifiPW = "YOURWIFINETWORKPW"       // Your WIFI PW
+const char* wifiPW = "YOURWIFINETWORKPW";       // Your WIFI PW
 const char* fwVersion = "1.0.1";               // Change this for whaever version your OTA is.
 
 HTTPClient http;

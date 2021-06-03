@@ -1,4 +1,5 @@
 {
     "port": "/dev/tty.usbserial-0001",
-    "board": "esp32:esp32:esp32"
+    "board": "esp32:esp32:esp32",
+    "sketch": "arduino/arduino_client/arduino_client.ino"
 }
